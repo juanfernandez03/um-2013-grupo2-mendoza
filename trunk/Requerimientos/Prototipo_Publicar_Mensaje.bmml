@@ -1,0 +1,30 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="909" measuredH="511" mockupW="609" mockupH="506">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="300" y="5" w="609" h="506" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::HorizontalScrollBar" x="529" y="467" w="-1" h="-1" measuredW="100" measuredH="16" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="889" y="198" w="-1" h="-1" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="444" y="157" w="270" h="100" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="508" y="117" w="-1" h="-1" measuredW="128" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PUBLICAR%20TWEET</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::HelpButton" x="692" y="162" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="642" y="282" w="-1" h="-1" measuredW="72" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Twittear</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="578" y="285" w="53" h="-1" measuredW="38" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20%20140</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::VRule" x="459" y="169" w="-1" h="26" measuredW="10" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Webcam" x="459" y="263" w="48" h="46" measuredW="177" measuredH="146" zOrder="9" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
