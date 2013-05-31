@@ -1,0 +1,29 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="909" measuredH="530" mockupW="609" mockupH="506">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="300" y="24" w="609" h="506" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::HorizontalScrollBar" x="529" y="467" w="-1" h="-1" measuredW="100" measuredH="16" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="300" y="131" w="156" h="256" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Webcam" x="345" y="206" w="29" h="29" measuredW="177" measuredH="146" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::IconLabel" x="318" y="198" w="-1" h="-1" measuredW="83" measuredH="63" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Silvi%20Troncoso</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::IconLabel" x="325" y="270" w="-1" h="-1" measuredW="69" measuredH="63" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Juan%20Alessi</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::SearchBox" x="321" y="146" w="125" h="-1" measuredW="120" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buscar%20Usuario</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Webcam" x="342" y="276" w="34" h="34" measuredW="177" measuredH="146" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="430" y="198" w="-1" h="142" measuredW="16" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
