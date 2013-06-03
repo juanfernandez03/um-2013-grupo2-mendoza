@@ -1,0 +1,104 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="844" measuredH="595" mockupW="450" mockupH="568">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="394" y="27" w="450" h="568" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Microblogging%0Ahttp%3A//www.microblogging.com.ar</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::ButtonBar" x="394" y="98" w="-1" h="-1" measuredW="371" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20Tablon%20%2C%20Perfil%20%2C%20Temas%20del%20momento%20%2C%20Salir</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="__group__" x="486" y="247" w="257" h="89" measuredW="257" measuredH="89" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="257" h="89" measuredW="257" measuredH="89" zOrder="0" locked="false" isInGroup="12">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="257" h="89" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>German%20Moyano%2028/05/2013</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="180" y="52" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="1" locked="false" isInGroup="12">
+          <controlProperties>
+            <color>10066329</color>
+            <text>Eliminar</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="95" y="52" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="2" locked="false" isInGroup="12">
+          <controlProperties>
+            <color>10066329</color>
+            <menuIcon>false</menuIcon>
+            <state>selected</state>
+            <text>Modificar</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="21" y="15" w="173" h="39" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="12">
+          <controlProperties>
+            <bold>true</bold>
+            <color>13576743</color>
+            <text>%23boca%20nunca%20descendi%F3.%20Con%20la%20frente%20bien%20alta</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="649" y="201" w="-1" h="-1" measuredW="83" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>Republicar</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Paragraph" x="507" y="168" w="213" h="33" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%23friquelme%20el%20peor%20jugar%20del%20partido%0Asegun%20http%3A//ole.com.ar</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="__group__" x="486" y="351" w="257" h="89" measuredW="257" measuredH="89" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="257" h="89" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="19">
+          <controlProperties>
+            <text>Silvi%20Troncoso%2028/05/2013</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Paragraph" x="507" y="366" w="194" h="39" measuredW="200" measuredH="80" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Haciendo%20el%20trabajo%20de%20ing.%20de%20%0ASoftware</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="__group__" x="486" y="450" w="257" h="89" measuredW="257" measuredH="89" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="257" h="89" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="23">
+          <controlProperties>
+            <text>Juan%20Fernandez%2028/05/2013</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Paragraph" x="507" y="473" w="173" h="24" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Viendo%20como%20pierde%20%23boca</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="649" y="405" w="-1" h="-1" measuredW="83" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>Republicar</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="649" y="504" w="-1" h="-1" measuredW="83" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>Republicar</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::FieldSet" x="486" y="147" w="257" h="89" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Juan%20Alessi%2028/05/2013</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
