@@ -2,6 +2,7 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="394" y="27" w="450" h="568" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>6710886</color>
         <text>Microblogging%0Ahttp%3A//www.microblogging.com.ar</text>
       </controlProperties>
     </control>
